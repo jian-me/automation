@@ -1,3 +1,7 @@
+#
+# Python script generated via AI in Tines to calculate the distance between two points using the Haversine method
+# 
+
 from math import radians, cos, sin, asin, sqrt
 
 def main(input):
